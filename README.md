@@ -60,8 +60,8 @@ O projeto utiliza conceitos fundamentais de POO para garantir manutenibilidade, 
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/juannl1/finan-as.git
-cd finan-as
+git clone https://github.com/juannl1/Sistema_Financeiro.git
+cd Sistema_Financeiro
 ```
 
 ### 2. Configurar o Ambiente Virtual (Opcional, mas recomendado)
