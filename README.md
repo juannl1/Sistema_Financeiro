@@ -1,4 +1,4 @@
-# 📊 Sistema de Gerenciamento Financeiro (Finan-as)
+# 📊 Sistema de Gerenciamento Financeiro
 
 Um sistema backend em Python desenvolvido com foco em **Programação Orientada a Objetos (POO)** e boas práticas de arquitetura de software para consolidação, cálculo de tributação e exportação de relatórios financeiros corporativos.
 
